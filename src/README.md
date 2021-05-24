@@ -21,7 +21,7 @@ bio: Student at Hogwarts School
 email: harry (at) hogwarts (dot) edu
 ---
 
-<ProfileSection :frontmatter="$page.frontmatter" />
+<!-- <ProfileSection :frontmatter="$page.frontmatter" /> -->
 
 ## About Me
 
@@ -59,7 +59,7 @@ Sept 1991 - 1997
 
 </ProjectCard>
 
-<ProjectCard hideBorder=true>
+<!-- <ProjectCard hideBorder=true> -->
 
   **Harry Potter and the Deathly Hallows**
   
@@ -67,7 +67,7 @@ Sept 1991 - 1997
 
   [[Link](https://www.google.com)]
 
-</ProjectCard>
+<!-- </ProjectCard> -->
 
 
 ## Awards & Honors

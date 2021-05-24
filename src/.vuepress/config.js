@@ -9,15 +9,30 @@ module.exports = {
     search: false,
     nav: [
       { text: "Home", link: "/" },
-      { text: "About", link: "/about/" },
-      { text: "Projects", link: "/projects/" },
-      { text: "Guide", link: "/guide/" },
-      { text: "GitHub", link: "https://github.com/mtobeiyf/vuepress-homepage" }
+      // { text: "About", link: "/about/" },
+      // { text: "Projects", link: "/projects/" },
+      // { text: "Guide", link: "/guide/" },
+      { text: "Dataset", link: "/data/"}
     ],
     sidebar: {
-      '/guide/': genSidebarConfig('Guide')
+      '/guide/': [
+        '',   /* README */
+        'advanced',
+        'customize',
+        'getting-started'
+      ],
+      '/data/': [
+        '',   /* README */
+        'data_description'
+      ]
     },
-    lastUpdated: 'Last Updated'
+    displayAllHeaders: true,
+    
+    lastUpdated: 'Last Updated',
+
+    plugins: [
+      'latex'
+    ]
   },
 
   markdown: {
@@ -29,18 +44,18 @@ module.exports = {
   }
 };
 
-function genSidebarConfig (title) {
-  return [
-    {
-      title,
-      collapsable: false,
-      children: [
-        '',
-        'getting-started',
-        'customize',
-        'advanced',
-      ]
-    }
-  ]
-}
+// function genSidebarConfig (title) {
+//   return [
+//     {
+//       title,
+//       collapsable: false,
+//       children: [
+//         '',
+//         'getting-started',
+//         'customize',
+//         'advanced',
+//       ]
+//     }
+//   ]
+// }
 
