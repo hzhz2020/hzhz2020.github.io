@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Echo dataset",
+  title: "Tufts University",
   description: "The description of the site.",
   head: [["link", { rel: "icon", href: `/logo.png` }]],
   base: "/",
@@ -12,7 +12,8 @@ module.exports = {
       // { text: "About", link: "/about/" },
       // { text: "Projects", link: "/projects/" },
       // { text: "Guide", link: "/guide/" },
-      { text: "Dataset", link: "/data/"}
+      { text: "EchoForAS-18-18", link: "/EchoForAS-18-18/"},
+      { text: "EchoForAS-156-52", link: "/EchoForAS-156-52/"}
     ],
     sidebar: {
       '/guide/': [
@@ -21,14 +22,18 @@ module.exports = {
         'customize',
         'getting-started'
       ],
-      '/data/': [
+      '/EchoForAS-18-18/': [
         '',   /* README */
-        'data_description'
+        // 'data_description',
+      ],
+      '/EchoForAS-156-52/':[
+        '', /* README */
+        // 'data_description',
       ]
     },
     displayAllHeaders: true,
     
-    lastUpdated: 'Last Updated',
+    // lastUpdated: 'Last Updated',
 
     plugins: [
       'latex'
