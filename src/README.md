@@ -23,26 +23,46 @@ email: harry (at) hogwarts (dot) edu
 
 <!-- <ProfileSection :frontmatter="$page.frontmatter" /> -->
 
-## About Me
+## Introduction
 
-I attended [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org/wiki/Hogwarts) to study witchcraft, supervised by **Dumbledore** and other professors. 
+Release of a new SSL benchmark for view and disease severity classifica-tion from echocardiograms.Our new dataset is directly inspired by the need forautomated preliminary assessment of aortic stenosis (AS). The dataset can help assessperformance on two challenging image classification tasks that are clinically-relevantfor assessing AS: view classification and disease severity diagnosis classification. Bothtasks are challenging to collect labeled data for given the lack of view labels in currentroutine image collection and the complexity of AS diagnoses. The diagnosis task furtherrequires aggregating predictions across many images of the same patient to make acoherent prediction for that individual. This dataset includes a small labeled set derivedfrom 260 patients and annotated by expert clinicians for view and diagnosis tasks. Thedataset further includes a largeunlabeledset from 2645 patients. 
 
-I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
+## Motivation
+Our motivating task is to improve timely diagnosis and treatment of aortic stenosis (AS),a common cardiac valve condition. If left untreated, severe AS has lower 5-year survivalrates than several metastatic cancers (Howlader et al., 2020; Clark et al., 2012). With timelydiagnosis and surgical or transcatheter aortic valve replacement, AS becomes a treatablecondition with very low mortality (Lancellotti et al., 2018). Unfortunately, under currentpractice up to 2/3 of symptomatic AS patients may never get referred for care (Tanget al., 2018; Brennan et al., 2019). There is an urgent need in improve timely detectionand treatment of this life-threatening condition. In this study, we develop and validatemachine learning methods for automating the preliminary interpretation of cardiac ultrasound(echocardiogram) images, with the goal of expanding access to rapid and accurate diagnosisof this condition, while overcoming constraints on the availability of labeled data needed totrain these methods effectively
 
+## Examples
+<img src='/images/data_samples/Appendix_PLAX1.png' style='width:30%'>
+<img src='/images/data_samples/Appendix_PSAX1.png' style='width:30%'>
+<img src='/images/data_samples/Appendix_Other1.png' style='width:30%'>
+<br/>
+<img src='/images/data_samples/Appendix_PLAX2.png' style='width:30%'>
+<img src='/images/data_samples/Appendix_PSAX2.png' style='width:30%'>
+<img src='/images/data_samples/Appendix_Other2.png' style='width:30%'>
+<br/>
+<img src='/images/data_samples/Appendix_PLAX3.png' style='width:30%'>
+<img src='/images/data_samples/Appendix_PSAX3.png' style='width:30%'>
+<img src='/images/data_samples/Appendix_Other3.png' style='width:30%'>
+<br/>
+<img src='/images/data_samples/Appendix_PLAX4.png' style='width:30%'>
+<img src='/images/data_samples/Appendix_PSAX4.png' style='width:30%'>
+<img src='/images/data_samples/Appendix_Other4.png' style='width:30%'>
 
-## News
+## Accessing Dataset
+HOW DO WE COLLECT APPLICATIONS?
+
+<!-- ## News
 
 - [Sept 1991] Attended Hogwarts
-- [July 1980] Born in Godric's Hollow, West Country, England, Great Britain
+- [July 1980] Born in Godric's Hollow, West Country, England, Great Britain -->
 
 
-## Education & Experiences
+<!-- ## Education & Experiences
 
 - **Hogwarts School of Witchcraft and Wizardry** <br/>
-Sept 1991 - 1997
+Sept 1991 - 1997 -->
 
 
-## Projects
+<!-- ## Projects
 
 
 [→ Full list](/projects/)
@@ -57,24 +77,34 @@ Sept 1991 - 1997
   
   [[PDF](https://github.com/zzyBen/zzyBen.github.io/blob/master/filesnpix.pdf)] [[arXiv](https://arxiv.org)]
 
-</ProjectCard>
+</ProjectCard> -->
 
 <!-- <ProjectCard hideBorder=true> -->
 
-  **Harry Potter and the Deathly Hallows**
+  <!-- **Harry Potter and the Deathly Hallows**
   
   In the epilogue of Deathly Hallows, which is set 19 years after Voldemort's death, Harry and Ginny are a couple and have three children: James Sirius Potter, who has already been at Hogwarts for at least one year, Albus Severus Potter, who is starting his first year there, and Lily Luna Potter, who is two years away from her first year at the school.
 
   [[Link](https://www.google.com)]
 
-<!-- </ProjectCard> -->
+</ProjectCard> -->
 
 
-## Awards & Honors
+<!-- ## Awards & Honors
 
 ### Contests
 
-- First place in **The Hogwarts House Cup**
+- First place in **The Hogwarts House Cup** -->
+
+
+## Paper
+A New Semi-supervised Learning Benchmark for ClassifyingView and Diagnosing Aortic Stenosis from Echocardiograms
+
+### Cite
+PLACE_HOLDER [PFD]
+
+## Contact
+mhughes@cs.tufts.edu
 
 
 <!-- Custom style for this page -->
