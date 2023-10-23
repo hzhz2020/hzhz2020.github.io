@@ -65,7 +65,7 @@ External links:
             <li>
                 Paper: <a href="https://pubmed.ncbi.nlm.nih.gov/36641103/">Automated Detection of Aortic Stenosis Using Machine Learning</a>
                 <br>
-                <span class="authors"><strong>Benjamin S. Wessler</strong>, Zhe Huang, Gary Long, Stefano Pacifici, Nishant Prashar, Samuel Karmiy, Roman A Sandler, Joseph Z Sokol, Daniel B Sokol, Monica M Dehn, Luisa Maslon, Eileen Mai, Ayan R Patel, Michael C. Hughes </span>
+                <span class="authors">Benjamin S. Wessler, <strong>Zhe Huang</strong>, Gary Long, Stefano Pacifici, Nishant Prashar, Samuel Karmiy, Roman A Sandler, Joseph Z Sokol, Daniel B Sokol, Monica M Dehn, Luisa Maslon, Eileen Mai, Ayan R Patel, Michael C. Hughes </span>
             </li>
             <li>
                 Dr. Benjamin S. Wessler led the clinical aspect of the research.
