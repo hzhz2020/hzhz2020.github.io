@@ -23,7 +23,31 @@ External links:
 <ul class="list-group">
     <li class="list-group-item">
         <h4 class="list-group-item-heading">
-            [Aug 2023] Paper accepted at MLHC 2023
+            [Mar 2024] Paper accepted at CVPR'24
+        </h4>
+        <ul>
+            <li>
+                Paper: <a href="https://arxiv.org/abs/2307.08919">Systematic comparison of semi-supervised and self-supervised learning for medical image classification</a>
+                <br>
+                <span class="authors"><strong>Zhe Huang</strong>, Ruijie Jiang, Shuchin Aeron, Michael C. Hughes</span>
+            </li>            
+        </ul>
+    </li>
+    <li class="list-group-item">
+        <h4 class="list-group-item-heading">
+            [Jan 2024] Clinical Abstract accepted at ACC'24 (American College of Cardiology)
+        </h4>
+        <ul>
+            <li>
+                Paper: Validation of System for Automated Screening for Aortic Stenosis
+                <br>
+                <span class="authors">Samuel Karmiy, <strong>Zhe Huang</strong>, Eileen Mai, Monica Dehn, Davinder Ramsingh, John Martin, Ayan R. Patel, Michael Hughes, Benjamin S. Wessler</span>
+            </li>            
+        </ul>
+    </li>
+    <li class="list-group-item">
+        <h4 class="list-group-item-heading">
+            [Aug 2023] Paper accepted at MLHC'23
         </h4>
         <ul>
             <li>
@@ -45,7 +69,7 @@ External links:
     </li>
     <li class="list-group-item">
         <h4 class="list-group-item-heading">
-            [Apr 2023] Paper selected for oral presentation at AISTATS '23 (top 2% of 1500 reviewed papers)
+            [Apr 2023] Paper selected for oral presentation at AISTATS'23 (top 2% of 1500 reviewed papers)
         </h4>
         <ul>
             <li>
@@ -74,7 +98,7 @@ External links:
     </li>
     <li class="list-group-item">
         <h4 class="list-group-item-heading">
-            [Dec 2021] Paper accepted at NeurIPS 2021 (Dataset&amp;Benchmark)
+            [Dec 2021] Paper accepted at NeurIPS'21 (Dataset&amp;Benchmark)
         </h4>
         <ul>
             <li>
@@ -99,7 +123,7 @@ External links:
     </li>
     <li class="list-group-item">
         <h4 class="list-group-item-heading">
-            [Aug 2021] Paper accepted at MLHC 2021
+            [Aug 2021] Paper accepted at MLHC'21
         </h4>
             <ul>
                 <li>
@@ -129,5 +153,5 @@ External links:
 </ul>
 
 ### Services
-Conference reviewer: NeurIPS, ICLR, AISTATS, MICCAI, ACM CHIL
+Conference reviewer: NeurIPS, ICLR, ICML, AISTATS, MICCAI, ACM CHIL
         
