@@ -1,11 +1,11 @@
 Title: Zhe Huang - Machine Learning Research
-Date: 2023-10-15
+Date: 2024-03-13
 save_as: index.html
 
 <div class="intro-text">
-<p>Hello! I'm fourth-year Ph.D. candidate at Tufts University. Prior to this, I earned my M.S. from the Center for Data Science at New York University and my B.S. from Ohio State University.</p>
-
-<p>My research primarily centers on the challenges and prospects of harnessing limited labeled data through semi-supervised and self-supervised learning. I'm particularly intrigued by the potential of these techniques in addressing critical healthcare issues. In close collaboration with cardiologists at Tufts Medical Center, I'm diligently working to leverage advanced ML research to enhance the diagnosis and treatment of patients with heart disease.</p>
+<p>Hello! I'm fifth-year Ph.D. candidate at Tufts University. Prior to this, I earned my M.S. from the Center for Data Science at New York University and my B.S. from Ohio State University. My research focuses on learning from limited labeled data, including <strong>semi-supervised</strong>, <strong>self-supervised</strong>, <strong>multiple-instance</strong>, and <strong>multi-modal</strong> learning</p>
+    
+<p>I work closely with cardiologists at Tufts Medical Center to advance ML solutions for healthcare problems. Recently, I've developed a keen interest in large language models (LLMs) and other foundational models. I'm exploring their diverse applications across various domains, with a particular emphasis on healthcare.</p>
 
 </div>
 
